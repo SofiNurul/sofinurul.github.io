@@ -3,7 +3,34 @@ body{
     background-image: url(image2.jpg);
     background-repeat: repeat-x;
 }
-.wrap{
+.container{
+    width:70%;
+    height: 1200px;
+    margin: auto;
+    color: rgb(218, 30, 61);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: whitesmoke;
+}
+.tabel-1{
+    width:70%;
+    height: 350px;
+    margin: auto;
+    color: rgb(218, 30, 61);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: whitesmoke;
+}
+.tab1{
+    width:70%;
+    height: 350px;
+    margin: auto;
+    color: rgb(218, 30, 61);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: whitesmoke; 
+}
+.tabel-2{
     width:70%;
     height: 350px;
     margin: auto;
