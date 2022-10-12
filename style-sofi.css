@@ -1,0 +1,33 @@
+body{
+    background-color :pink;
+    background-image: url(image2.jpg);
+    background-repeat: repeat-x;
+    width: 100%;
+
+
+}
+.container{
+    width:70%;
+    height: auto;
+    margin: auto;
+    color: rgb(218, 30, 61);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: whitesmoke;
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin:23px;
+}
+button{
+    width:50px;
+    font-family: comic sans ms;
+    height: 30px;
+    background-color: rgb(233, 8, 117);
+    border-radius: 7px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 3){
+    /* CSS */
+}
